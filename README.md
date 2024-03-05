@@ -2,11 +2,7 @@
 
 ## 18-19 September, 2024, Prague, Czechia
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rlogo.png/274px-Rlogo.png)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/512px-Julia_Programming_Language_Logo.svg.png)
+![](logos.png)
 
 ## Goals
 
