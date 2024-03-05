@@ -17,11 +17,12 @@ The workshop will be held Sept 18 & 19, 2024, at the [Geographical Institute of
 
 The address is:
 
-```
-Albertov 6
-128 00, Praha 2
-Czechia
-```
+
+> Albertov 6<br>
+> 128 00, Praha 2<br>
+> Czechia<br>
+
+([OpenStreetMap](https://osm.org/go/0J0lE_g2~?node=296674067), [Google Maps](https://maps.app.goo.gl/3hWxRhEpYAC6wH3i9))
 
 ## Program Committee
 
@@ -31,8 +32,7 @@ Czechia
 
 ## Local committee
 
-- Adam Klsák
-- Daniela Dančejová
+- [Adam Klsák](https://urrlab.cz/en/member/2969/)
 
 ## Registration
 
