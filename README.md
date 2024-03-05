@@ -1,8 +1,9 @@
-# Spatial Data Science across Languages (SDSL), vol. 2
+# Spatial Data Science across Languages (SDSL) 2024
 
-## 18-19 September, 2024, Prague, Czechia
+__18-19 September, 2024, Prague, Czechia__
 
-![](logos.png)
+![](logos.svg)
+
 
 ## Goals
 
@@ -53,4 +54,8 @@ To be announced.
 
 ## Supported by
 
-[![](https://uscuni.github.io/uscuni_logo.svg)](https://uscuni.github.io)
+<center>
+<a href="https://uscuni.github.io/"><img src="uscuni.svg" width=200></a><br><br>
+<a href="https://mdc.natur.cuni.cz/en/home/"><img src="mdc.svg" width=200></a><br>
+<a href="https://natur.cuni.cz/en/"><img src="cuni.jpg" width=400></a>
+<center>
