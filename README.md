@@ -2,21 +2,36 @@
 
 __18-19 September, 2024, Prague, Czechia__
 
-![](logos.svg)
-
+![Logos of R, Rust, Julia, and Python](logos.svg)
 
 ## Goals
 
-To be filled.
+Spatial data science, using the words of Luc Anselin (2019), is _a data science that treats location, distance, and spatial interaction as core aspects of the data and employs specialised methods and software to store, retrieve, explore, analyse, visualise and learn from such data_. While this definition can be a bit long, it is, first and foremost, precise. Although the core is location and spatial dimension of data, the heart of spatial data science is __code__ written often in R, Julia, or Python. And in the core of code are libraries and packages that support every aspect of the work. These tools are being developed by diverse communities that occasionally stretch across languages but oftentimes stick to their own. The _Spatial Data Science across Languages_ workshop aims to bridge this language barrier and bring these communities together to discuss their differences and commonalities and find ways to discuss, cooperate, and synchronise the efforts.
 
-The goal of the workshop is to attract a maximum of 30 on-site attendees to discuss these issues, and plan for future collaborations.
+The [first installment of the workshop](https://r-spatial.org/sdsl/), which was held in 2023 in Münster, Germany, has opened many topics. The second workshop aims to follow up on some of those and touch others that did not get enough attention the last time. At the same time, it will pick up the latest developments in the field and discuss where it should lead next.
+
+The topics you may expect to be part of the discussion include:
+
+- Apache Arrow, GeoArrow, and its cross-language ecosystem
+- Communities and governance models
+- Data structures and their properties
+- Funding mechanisms
+- Interoperability between packages and languages
+- Learning resources and teaching methods
+- Rise of Rust as a modern language behind the scenes
+- Spatial statistics and ML
+- Spherical geometry, the flatness of the world, and how to deal with it
+- Trajectory data and movement analysis
+
+However, the list is not exhaustive or fixed.
+
+The goal of the workshop is to attract a maximum of 30 on-site attendees.
 
 ## Venue
 
 The workshop will be held Sept 18 & 19, 2024, at the [Geographical Institute of the Charles University](https://www.natur.cuni.cz/geography/geographical-institute?set_language=en).
 
 The address is:
-
 
 > Albertov 6<br>
 > 128 00, Praha 2<br>
@@ -33,6 +48,8 @@ The address is:
 ## Local committee
 
 - [Adam Klsák](https://urrlab.cz/en/member/2969/)
+- Daniela Dančejová
+- Martin Fleischmann
 
 ## Registration
 
@@ -50,7 +67,7 @@ Online attendance will be possible. Online participation is free of charge.
 
 ## Program
 
-To be announced.
+The exact program is to be announced. We expect it to cover both days, roughly from 9 to 17h.
 
 ## Supported by
 
