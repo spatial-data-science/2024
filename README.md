@@ -43,6 +43,10 @@ The address is:
 
 - [Martin Fleischmann](https://martinfleischmann.net/)
 - [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
+- [Josiah Parry](https://josiahparry.com/)
+- [Kyle Barron](https://kylebarron.dev/)
+- [Jakub Nowosad](https://jakubnowosad.com)
+- [Robin Lovelace](https://www.robinlovelace.net)
 - to be nominated
 
 ## Local committee
