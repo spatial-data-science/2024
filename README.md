@@ -41,11 +41,12 @@ The address is:
 
 ## Program Committee
 
-- [Martin Fleischmann](https://martinfleischmann.net/)
 - [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
+- [Jakub Nowosad](https://jakubnowosad.com)
 - [Josiah Parry](https://josiahparry.com/)
 - [Kyle Barron](https://kylebarron.dev/)
-- [Jakub Nowosad](https://jakubnowosad.com)
+- [Lorena Abad](https://loreabad6.github.io/)
+- [Martin Fleischmann](https://martinfleischmann.net/)
 - [Robin Lovelace](https://www.robinlovelace.net)
 - to be nominated
 
