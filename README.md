@@ -48,6 +48,7 @@ The address is:
 - [Lorena Abad](https://loreabad6.github.io/)
 - [Martin Fleischmann](https://martinfleischmann.net/)
 - [Robin Lovelace](https://www.robinlovelace.net)
+- [Serge Rey](https://geography.sdsu.edu/people/bios/rey)
 - to be nominated
 
 ## Local committee
