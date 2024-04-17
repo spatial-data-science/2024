@@ -41,6 +41,7 @@ The address is:
 
 ## Program Committee
 
+- [Anita Graser](https://anitagraser.com/)
 - [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
 - [Jakub Nowosad](https://jakubnowosad.com)
 - [Josiah Parry](https://josiahparry.com/)
@@ -49,7 +50,6 @@ The address is:
 - [Martin Fleischmann](https://martinfleischmann.net/)
 - [Robin Lovelace](https://www.robinlovelace.net)
 - [Serge Rey](https://geography.sdsu.edu/people/bios/rey)
-- to be nominated
 
 ## Local committee
 
