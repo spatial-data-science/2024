@@ -8,7 +8,7 @@ __18–19 September, 2024, Prague, Czechia__
 
 Spatial data science, using the words of Luc Anselin (2019), is _a data science that treats location, distance, and spatial interaction as core aspects of the data and employs specialised methods and software to store, retrieve, explore, analyse, visualise and learn from such data_. While this definition can be a bit long, it is, first and foremost, precise. Although the foundation of spatial data science revolves around the location and spatial dimension of data, its essence lies in the __code__, often written in R, Julia, or Python. At the core of this code are libraries and packages that support every aspect of the work. These tools are being developed by diverse communities that occasionally stretch across languages but oftentimes stick to their own. The _Spatial Data Science across Languages_ workshop aims to bridge this language barrier and bring these communities together to discuss their differences and commonalities and find ways to discuss, cooperate, and synchronise the efforts.
 
-The [first installment of the workshop](https://r-spatial.org/sdsl/), which was held in 2023 in Münster, Germany, has opened many topics. The second workshop aims to follow up on some of those and touch others that did not get enough attention the last time. At the same time, it will pick up the latest developments in the field and discuss where it should lead next.
+The [first instalment of the workshop](https://r-spatial.org/sdsl/), which was held in 2023 in Münster, Germany, has opened many topics. The second workshop aims to follow up on some of those and touch others that did not get enough attention the last time. At the same time, it will pick up the latest developments in the field and discuss where it should lead next.
 
 The topics you may expect to be part of the discussion include:
 
@@ -55,21 +55,25 @@ The address is:
 
 - [Adam Klsák](https://urrlab.cz/en/member/2969/)
 - Daniela Dančejová
-- Martin Fleischmann
+- [Martin Fleischmann](https://martinfleischmann.net/)
+
+In case of any queries, please contact Daniela (daniela.dancejova@natur.cuni.cz) or Martin (martin.fleischmann@natur.cuni.cz).
 
 ## Registration
 
-Registration will open in the coming months.
+The registration is now open. Please register using the [registration form](https://forms.gle/coaynifjWoYovuyVA).
 
-Expected registration fees for on-site participation:
+The registration fees for on-site participation:
 
 - 150 euro (industry)
 - 75 euro (academic)
 - 25 euro (student)
 
-## Online Attendance
+The fees will be primarily used to cover the cost of catering for on-site participants. Payment details will be shared with the registered participants soon.
 
-Online attendance will be possible. Online participation is free of charge.
+### Online Attendance
+
+Online attendance will be possible. Online participation is free of charge. If you plan to join the symposium online, please indicate that in the registration form.
 
 ## Program
 
