@@ -8,7 +8,7 @@ __18–19 September, 2024, Prague, Czechia__
 
 Spatial data science, using the words of Luc Anselin (2019), is _a data science that treats location, distance, and spatial interaction as core aspects of the data and employs specialised methods and software to store, retrieve, explore, analyse, visualise and learn from such data_. While this definition can be a bit long, it is, first and foremost, precise. Although the foundation of spatial data science revolves around the location and spatial dimension of data, its essence lies in the __code__, often written in R, Julia, or Python. At the core of this code are libraries and packages that support every aspect of the work. These tools are being developed by diverse communities that occasionally stretch across languages but oftentimes stick to their own. The _Spatial Data Science across Languages_ workshop aims to bridge this language barrier and bring these communities together to discuss their differences and commonalities and find ways to discuss, cooperate, and synchronise the efforts.
 
-The [first instalment of the workshop](https://r-spatial.org/sdsl/), which was held in 2023 in Münster, Germany, has opened many topics. The second workshop aims to follow up on some of those and touch others that did not get enough attention the last time. At the same time, it will pick up the latest developments in the field and discuss where it should lead next.
+The [first installment of the workshop](https://r-spatial.org/sdsl/), which was held in 2023 in Münster, Germany, has opened many topics. The second workshop aims to follow up on some of those and touch others that did not get enough attention the last time. At the same time, it will pick up the latest developments in the field and discuss where it should lead next.
 
 The topics you may expect to be part of the discussion include:
 
@@ -69,7 +69,9 @@ The registration fees for on-site participation:
 - 75 euro (academic)
 - 25 euro (student)
 
-The fees will be primarily used to cover the cost of catering for on-site participants. Payment details will be shared with the registered participants soon.
+The fees will be primarily used to cover the cost of catering for on-site participants. Payment details will be shared with the registered participants soon. In some circumstances, we may be able to waive the fee. Please indicate the request in the form and we will follow up with you.
+
+Note that the number of participants is limited.
 
 ### Online Attendance
 
