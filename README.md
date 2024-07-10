@@ -77,6 +77,10 @@ Note that the number of participants is limited.
 
 Online attendance will be possible. Online participation is free of charge. If you plan to join the symposium online, please indicate that in the registration form.
 
+## Discord
+
+SDSL has a Discord server that will be used for communication during the workshop. Please join via [https://discord.gg/HJRKEJsmrr](https://discord.gg/HJRKEJsmrr).
+
 ## Program
 
 The exact program is to be announced. We expect it to cover both days, roughly from 9 to 17h.
