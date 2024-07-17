@@ -61,7 +61,7 @@ In case of any queries, please contact Daniela (daniela.dancejova@natur.cuni.cz)
 
 ## Registration
 
-The registration for in-person attendance is now closed due to capacity reasons. Registration for online attendance is still open. Please register using the [registration form](https://forms.gle/coaynifjWoYovuyVA).
+The registration for in-person attendance is now closed due to capacity reasons. Registration for online attendance is still open. Please register using the [registration form](https://forms.gle/WLnJYXTCRqdCJ6Bk8).
 If you believe we should secure an additional in-person spot for you, reach out to Martin.
 
 The registration fees for on-site participation:
