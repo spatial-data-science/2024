@@ -92,4 +92,5 @@ The exact program is to be announced. We expect it to cover both days, roughly f
 <a href="https://uscuni.github.io/"><img src="uscuni.svg" width=200></a><br><br>
 <a href="https://mdc.natur.cuni.cz/en/home/"><img src="mdc.svg" width=200></a><br>
 <a href="https://natur.cuni.cz/en/"><img src="cuni.jpg" width=400></a>
+<a href="https://www.nfdi4earth.de/"><img src="NFDI4Earth_logo.png" width=200></a><br>
 <center>
