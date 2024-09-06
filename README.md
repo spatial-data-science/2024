@@ -96,7 +96,7 @@ SDSL has a Discord server that will be used for communication during the worksho
 | 15:30-16:00     | Coffee/tea                                                                                      |
 | 16:00-17:00     | Deploying cross-language in high impact projects                                                |
 |                 |                                                                                                 |
-| 19:00           | Informal dinner @ Vinohrady Brewery                                                             |
+| 19:00           | Informal dinner @ [Vinohrady Brewery](https://www.vinohradskypivovar.cz/en/)                                                            |
 |                 |                                                                                                 |
 | __Thu, Sep 19__ |                                                                                                 |
 | 9:00-10:30      | Trajectory data and movement analysis                                                           |
