@@ -84,7 +84,29 @@ SDSL has a Discord server that will be used for communication during the worksho
 
 ## Program
 
-The exact program is to be announced. We expect it to cover both days, roughly from 9 to 17h.
+| Day/time        | topic                                                                                           |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| __Wed, Sep 18__ |                                                                                                 |
+| 9:00-10:30      | Introduction round (30 mins), scope, workshop program and goals, outcomes, summary of SDSL 2023 |
+| 10:30-11:00     | Coffee/tea                                                                                      |
+| 11:00-12:30     | Data structures and their properties (data cubes, data frames, de/serialisation)                |
+| 12:30-13:30     | Lunch break                                                                                     |
+| 13:30-14:30     | Apache Arrow, GeoArrow, and its cross-language ecosystem                                        |
+| 14:30-15:30     | Rise of Rust as a modern language behind the scenes                                             |
+| 15:30-16:00     | Coffee/tea                                                                                      |
+| 16:00-17:00     | Deploying cross-language in high impact projects                                                |
+|                 |                                                                                                 |
+| 19:00           | Informal dinner @ Vinohrady Brewery                                                             |
+|                 |                                                                                                 |
+| __Thu, Sep 19__ |                                                                                                 |
+| 9:00-10:30      | Trajectory data and movement analysis                                                           |
+| 10:30-11:00     | Coffee/tea                                                                                      |
+| 11:00-12:30     | Learning resources and teaching methods                                                         |
+| 12:30-13:30     | Lunch break                                                                                     |
+| 13:30-15:00     | Spherical geometry, the flatness of the world, and how to deal with it  (DGGS, S2)               |
+| 15:00-15:30     | Coffee/tea                                                                                      |
+| 15:30-16:30     | Spatial statistics and ML (models, weights, pseudo-p calculations...)                           |
+| 16:30-17:00     | Closing, future plans                                                                           |
 
 ## Supported by
 
